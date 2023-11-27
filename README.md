@@ -9,7 +9,7 @@
    - [x] [Valid Perfect Square](https://leetcode.cn/problems/valid-perfect-square/)
 ### 2. Two Pointers
    - [x] [Remove Element](https://leetcode.cn/problems/remove-element/)
-   - [ ] [Remove Duplicates from Sorted Array](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
+   - [x] [Remove Duplicates from Sorted Array](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
    - [ ] [Move Zeroes](https://leetcode.cn/problems/move-zeroes/)
    - [ ] [Backspace String Compare](https://leetcode.cn/problems/backspace-string-compare/)
    - [x] [Squares of a Sorted Array](https://leetcode.cn/problems/squares-of-a-sorted-array/)
