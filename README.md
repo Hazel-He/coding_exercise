@@ -13,3 +13,7 @@
    - [ ] [Move Zeroes](https://leetcode.cn/problems/move-zeroes/)
    - [ ] [Backspace String Compare](https://leetcode.cn/problems/backspace-string-compare/)
    - [x] [Squares of a Sorted Array](https://leetcode.cn/problems/squares-of-a-sorted-array/)
+### 3. Sliding Window
+   - [x] [Minimum Size Subarray Sum](https://leetcode.cn/problems/minimum-size-subarray-sum/)
+   - [ ] [Fruit Into Baskets](https://leetcode.cn/problems/fruit-into-baskets/)
+   - [ ] [Minimum Window Substring](https://leetcode.cn/problems/minimum-window-substring/)
