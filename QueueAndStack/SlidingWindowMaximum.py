@@ -13,6 +13,8 @@ from typing import List
 
 
 def maxSlidingWindow(nums: List[int], k: int) -> List[int]:
+    # 这里需要使用deque实现单调队列，直接使用list会超时，因为list底层是array，pop(0)的时间复杂度是O(n)
+    # deque的底层是双向链表，所以pop(0)的时间复杂度是O(1)
     q = deque()
     res = []
     for i, val in enumerate(nums):
