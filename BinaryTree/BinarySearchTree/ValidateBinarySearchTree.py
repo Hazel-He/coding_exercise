@@ -1,5 +1,7 @@
 """
 LeetCode 98: https://leetcode.cn/problems/validate-binary-search-tree/description/
+BST最重要的特性是使用中序遍历
+BST的中序遍历是升序的，所以只要在中序遍历的过程中，判断当前节点的值是否大于前一个节点的值即可。
 """
 from typing import Optional
 
