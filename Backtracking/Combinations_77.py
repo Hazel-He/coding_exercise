@@ -22,6 +22,9 @@ class Solution:
                 return
             for i in range(start, n - (k - len(combination)) + 2):
                 combination.append(i)
+                if sum(combination) > n: # 这里还可以多的一个剪枝操作是，已选元素总和如果已经大于n，就不用再继续了
+                    combination.pop()
+                    return
                 backtracking(i + 1, combination)
                 combination.pop()
 
