@@ -3,7 +3,7 @@ LeetCode 509: https://leetcode.cn/problems/fibonacci-number/description/
 DP要确认的是：
 1. dp数组的定义
 2. dp数组的初始化
-3. dp数组的递推表达式
+3. dp数组的递推公式
 4. dp数组的遍历方向
 """
 
