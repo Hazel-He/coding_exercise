@@ -15,7 +15,7 @@ class Solution:
                 prediff = diff
                 change += 1
                 continue
-            if diff > 0 > prediff or diff < 0 and prediff > 0:
+            if diff > 0 > prediff or diff < 0 < prediff:
                 prediff = diff
                 change += 1
 
